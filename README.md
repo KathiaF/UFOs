@@ -18,6 +18,7 @@ Software: Visual Studio Code, 1.63.2
 | --- | --- |
 | <img src="/static/images/img2.png"> | <img src="/static/images/img3.png"> | 
 
+
   - The event listener (_"click"_) has been modified so that it detects a _"change"_ on each input element
   - Filters have been included that allow users to look only at sightings that match specific criteria.
   
@@ -25,7 +26,9 @@ Software: Visual Studio Code, 1.63.2
 | --- | --- |
 | <img src="/static/images/img4.png"> | <img src="/static/images/img5.png"> | 
 
+
 - Filters
+
 | city | state | 
 | --- | --- |
 | <img src="/static/images/img6.png"> | <img src="/static/images/img7.png"> | 
