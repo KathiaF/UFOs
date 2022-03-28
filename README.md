@@ -8,5 +8,25 @@ Data Source: data.js
 Software: Visual Studio Code, 1.63.2
 
 ## Results
+1. Make the webpage visually appealing
+<img src="/Resources/img1.png" width="50%" height="50%">
+
+2. Deliverable 1: Filter UFO sightings on multiple criteria
+- Source Code
+| index.html | app.js | 
+| --- | --- |
+| <img src="/Resources/img2.png"> | <img src="/Resources/img3.png"> | 
+
+| module 11 | challenge 11 | 
+| --- | --- |
+| <img src="/Resources/img4.png"> | <img src="/Resources/img5.png"> | 
+
+- Filters
+| city | state | 
+| --- | --- |
+| <img src="/Resources/img6.png"> | <img src="/Resources/img7.png"> | 
+| country | shape |
+| --- | --- |
+| <img src="/Resources/img8.png"> | <img src="/Resources/img9.png"> |
 
 ## Summary
