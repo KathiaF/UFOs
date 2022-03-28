@@ -19,8 +19,8 @@ Software: Visual Studio Code, 1.63.2
 | <img src="/static/images/img2.png"> | <img src="/static/images/img3.png"> | 
 
 
-  - The event listener (_"click"_) has been modified so that it detects a _"change"_ on each input element
-  - Filters have been included that allow users to look only at sightings that match specific criteria.
+  - The event listener (_"click"_) has been modified so that it detects a _"change"_ on each input element and the list element that creates the button is removed
+  - 5 Filters have been included that allow users to look only at sightings that match specific criteria.
   
 | module 11 | challenge 11 |
 | --- | --- |
@@ -37,3 +37,12 @@ Software: Visual Studio Code, 1.63.2
 | <img src="/static/images/img8.png"> | <img src="/static/images/img9.png"> |
 
 ## Summary
+Drawbacks in this webpage: 
+- The user must know specific dates, cities, states, countries or shapes to search.
+- The filters require exact match against the data being entered.
+
+Recomendatios:
+1. Include a drop down feature on the existing filters so users could scroll through the options or implement an autocomplete on the textbox.
+2. Filter between dates to get records in specific date range.
+3. Add a _clear button_.
+
